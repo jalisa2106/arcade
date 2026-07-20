@@ -96,7 +96,7 @@ This separation ensures scalability, maintainability, and clarity.
 - Express.js
 
 ### Database
-- PostgreSQL
+- PostgreSQL, MongoDB NoSQL
 
 ### Authentication
 - JWT (JSON Web Tokens)
